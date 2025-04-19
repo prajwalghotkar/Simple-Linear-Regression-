@@ -1,2 +1,2 @@
 ### 1) Simple Linear Regression Using scikit-learn
-### 2) Create Linear Regression from the crash
+### 2) Create Linear Regression from the Scratch
