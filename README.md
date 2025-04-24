@@ -11,5 +11,6 @@
 
 #### * Multiple Linear Regression (Code from Scratch)
 
+#### * Making our own Linear Regression Class
 
 
