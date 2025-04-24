@@ -9,5 +9,7 @@
 
 ![newplot (2)](https://github.com/user-attachments/assets/37d0589a-51ee-4c99-a6ac-c1d5bea230de)
 
+#### * Multiple Linear Regression (Code from Scratch)
+
 
 
